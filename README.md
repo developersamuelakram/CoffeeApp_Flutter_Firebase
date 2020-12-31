@@ -8,8 +8,7 @@ Register User and then update its info, with slider and spinner etc.
 3. Stream,
 4. Material,
 5. ListView,
-6. Firebase Auth and much more ,
-7.TextFormInputField etc
+6. Firebase Auth and TextFormInputField etc
 
 ![](images/one.png)
 
